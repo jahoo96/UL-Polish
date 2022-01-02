@@ -1,4 +1,4 @@
-﻿Key,Polish
+﻿Key,polish
 
 campfireActivate,"Otwórz ognisko"
 caffeineBuzz,"Strzał z kofeiny"
