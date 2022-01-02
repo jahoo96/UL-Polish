@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="UndeadLegacy_CoreModule"/>
-		<Description value="Undead Legacy Core Module." />
-		<Author value="Subquake"/>
+		<Name value="UndeadLegacy Polish Localization by jahoo96"/>
+		<Description value="UndeadLegacy Polish Localization by jahoo96." />
+		<Author value="jahoo96"/>
 		<Version value="1"/>
-		<Website value="http://ul.subquake.com"/>
+		<Website value=""/>
 	</ModInfo>
 </xml>
